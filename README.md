@@ -2,6 +2,6 @@
 ## Expanding domain knowledge of the wine industry.
 
 ### Questions
-* Where are the grapes produced
+* Where are the grapes produced?
 
 ### Links
